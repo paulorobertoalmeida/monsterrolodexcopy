@@ -2,6 +2,9 @@
 
 The completed version of our monsters rolodex project!
 
+<img src="https://raw.githubusercontent.com/paulorobertoalmeida/monsterrolodexcopy/master/Captura%20de%20pantalla%202020-12-03%20a%20las%2016.32.24.jpg" width="900" height="400">
+
+
 # How to fork and clone
 
 One quick note about cloning this project. If you wish to make commits and push the code up after cloning this repo, you should fork the project first. In order to own your own copy of this repository, you have to fork it so you get your own copy on your own profile!
